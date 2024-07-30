@@ -105,8 +105,7 @@ docker exec -it kafka-cluster_kafka_1 kafka-console-producer --topic test-topic 
 ```
 ### Type some messages and press Enter:
 ```sh
-Hello, Kafka!
-This is a test message.
+Hello Kafka! I am noob here. Guide me to learn kafka.
 ```
 ### Consume a Message
 ```sh
