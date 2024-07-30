@@ -103,6 +103,11 @@ docker exec -it kafka-cluster_kafka_1 kafka-topics --create --topic test-topic -
 ```sh
 docker exec -it kafka-cluster_kafka_1 kafka-console-producer --topic test-topic --bootstrap-server localhost:9092
 ```
+### Type some messages and press Enter:
+```sh
+Hello, Kafka!
+This is a test message.
+```
 ### Consume a Message
 ```sh
 docker exec -it kafka-cluster_kafka_1 kafka-console-consumer --topic test-topic --bootstrap-server localhost:9092 --from-beginning
