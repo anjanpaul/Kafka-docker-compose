@@ -114,3 +114,7 @@ docker exec -it kafka-cluster_kafka_1 kafka-console-consumer --topic test-topic 
 ```
 ### Output
 ![alt text](testImage.png)
+
+###### If you see the same text in the consumer that you typed into the producer, then your Kafka producer and consumer are working successfully!
+
+Docker Rockz!!!! 😅**
