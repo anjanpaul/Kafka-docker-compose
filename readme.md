@@ -19,9 +19,8 @@ This repository contains a Docker Compose setup for running Apache Kafka and Zoo
 ### Clone the Repository
 
 ```sh
-git clone <repository_url>
-cd <repository_directory>
-
+git clone git@github.com:anjanpaul/Kafka-docker-compose.git
+cd Kafka-docker-compose
 ```
 
 ### Start the Services
