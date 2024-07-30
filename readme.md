@@ -118,4 +118,4 @@ docker exec -it kafka-cluster_kafka_1 kafka-console-consumer --topic test-topic 
 
 **Docker Rockz!!!! 😅**
 
-**REMEMBER THIS IS ONLY FORM DEV OR TEST ENVIRONMENT! NOT RECOMMENDED TO USE IN PRODUCTION**
+**REMEMBER THIS IS ONLY FOR DEV OR TEST ENVIRONMENT! NOT RECOMMENDED TO USE IN PRODUCTION**
